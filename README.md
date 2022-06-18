@@ -2,5 +2,7 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Frango
+- Frango frito
 - ​Pavê
+- Bolo de Cenoura
+- Bolo de flocão
