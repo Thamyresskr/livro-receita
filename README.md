@@ -6,3 +6,6 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - ​Pavê
 - Bolo de Cenoura
 - Bolo de flocão
+- Bolinho de Arroz
+- Bolinho de chuva
+- Peixe assado
